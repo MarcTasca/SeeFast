@@ -18,7 +18,7 @@ to obtain better performances, whereby the discrepancy between
 the source and target distributions is reduced by swapping the
 low-frequency spectrum of one with the other.
 
-for more info, I suggest you to read [our report](Report.pdf), or to check our [presentation](Slides.pdf)
+for more info, I suggest you to read our [report](Report.pdf), or to check our [presentation](Slides.pdf).
 
 
 ## Objective
